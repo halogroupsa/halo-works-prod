@@ -1,0 +1,42 @@
+{
+  "research_date": "2026-11-06",
+  "source": "Google Ads Keyword Planner accessed through Codex browser",
+  "location": {
+    "name": "Dubai, United Arab Emirates",
+    "type": "province",
+    "other_locations_removed": true
+  },
+  "language": "English",
+  "network": "Google",
+  "period_start": "2025-10-01",
+  "period_end": "2026-09-30",
+  "currency": "USD",
+  "range_reporting": true,
+  "observed_ui_to_export_values": {
+    "10\u2013100": "50",
+    "100\u20131,000": "500",
+    "1,000\u201310,000": "5000"
+  },
+  "interpretation": "Use observed UI ranges. Export numbers are not verified exact monthly search counts. Do not sum keyword variants. Blank metrics are unavailable, not zero. Competition describes paid advertising. Top-of-page bids are historical estimates, not actual CPC or guaranteed prices.",
+  "total_records": 619,
+  "distinct_keyword_texts": 526,
+  "duplicate_records": 93,
+  "sources": [
+    {
+      "file": "services-raw.csv",
+      "original_download_filename": "Keyword Stats 2026-11-06 at 13_16_04.csv",
+      "records": 132,
+      "sha256": "2ce99f7aa179e22af8ff22089b9849fe8f07322d11b711824ba6dada9364cdf9",
+      "encoding": "UTF-16 LE with BOM",
+      "delimiter": "tab"
+    },
+    {
+      "file": "companies-and-design-raw.csv",
+      "original_download_filename": "Keyword Stats 2026-11-06 at 13_17_09.csv",
+      "records": 487,
+      "sha256": "5c13d51bb69065747fe86ddb07bfd0a53648897ef3340cc5bd76e439cb24efac",
+      "encoding": "UTF-16 LE with BOM",
+      "delimiter": "tab"
+    }
+  ]
+}

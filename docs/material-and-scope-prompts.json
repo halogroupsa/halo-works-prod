@@ -1,0 +1,86 @@
+[
+  {
+    "name": "texture-oak",
+    "prompt": "Use case: photorealistic-natural. Asset type: finished website photography for Halo Works Dubai. Extreme close-up straight-on material photograph of natural pale European oak veneer. Fine irregular open pores, subtle cathedral grain, a few tiny natural knots, matte oil finish, honey-beige neutral tone. Full frame surface edge to edge, gently raking daylight reveals physical texture. No seams, no objects. Premium professional camera photograph, nuanced real material imperfections, restrained warm neutral palette, tactile physical realism. No illustration, no CGI look, no text, no watermarks, no graphic frames.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-0351851f-584f-494a-ae85-7b4be0924736.png",
+    "method": "Built-in image generation",
+    "output": "public/images/texture-oak.webp"
+  },
+  {
+    "name": "texture-walnut",
+    "prompt": "Use case: photorealistic-natural. Asset type: finished website photography for Halo Works Dubai. Extreme close-up straight-on photograph of smoked dark oak timber, deep chocolate brown, real irregular flowing grain and tiny pores, beautiful matte cabinet-grade finish, warm undertones. Full frame surface edge to edge, subtle raking daylight, no planks seams or objects. Premium professional camera photograph, nuanced real material imperfections, restrained warm neutral palette, tactile physical realism. No illustration, no CGI look, no text, no watermarks, no graphic frames.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-4f5fedab-8af0-4f94-9a43-7918372e96f7.png",
+    "method": "Built-in image generation",
+    "output": "public/images/texture-walnut.webp"
+  },
+  {
+    "name": "texture-stone",
+    "prompt": "Use case: photorealistic-natural. Asset type: finished website photography for Halo Works Dubai. Extreme close-up straight-on photograph of honed ivory travertine limestone slab, creamy warm beige, real fine mineral veins, tiny filled pores and subtle layered sediment, matte tactile surface. Entire frame stone edge to edge with softly raking daylight. No objects. Premium professional camera photograph, nuanced real material imperfections, restrained warm neutral palette, tactile physical realism. No illustration, no CGI look, no text, no watermarks, no graphic frames.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-5ac8bb40-9399-484d-baea-6c1b3e45af7c.png",
+    "method": "Built-in image generation",
+    "output": "public/images/texture-stone.webp"
+  },
+  {
+    "name": "texture-linen",
+    "prompt": "Use case: photorealistic-natural. Asset type: finished website photography for Halo Works Dubai. Macro material photograph of natural oatmeal linen upholstery fabric, highly realistic irregular flax threads, small slubs and visible warp and weft, gentle shallow fabric undulation, warm ivory beige. Full-frame textile edge to edge. Diffuse side daylight. Premium professional camera photograph, nuanced real material imperfections, restrained warm neutral palette, tactile physical realism. No illustration, no CGI look, no text, no watermarks, no graphic frames.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-f473dd50-9f3e-4d64-aa04-320a9d530de9.png",
+    "method": "Built-in image generation",
+    "output": "public/images/texture-linen.webp"
+  },
+  {
+    "name": "texture-bronze",
+    "prompt": "Use case: photorealistic-natural. Asset type: finished website photography for Halo Works Dubai. Macro straight-on material photograph of brushed architectural bronze metal, warm muted champagne bronze, fine directional hairline brushing, subtle natural patina and soft authentic light falloff. Entire frame bronze surface edge to edge. No strong shiny glare or reflections of objects. Premium professional camera photograph, nuanced real material imperfections, restrained warm neutral palette, tactile physical realism. No illustration, no CGI look, no text, no watermarks, no graphic frames.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-e6796eba-63a9-492b-83a3-693ac1770e12.png",
+    "method": "Built-in image generation",
+    "output": "public/images/texture-bronze.webp"
+  },
+  {
+    "name": "texture-paper",
+    "prompt": "Use case: photorealistic-natural. Asset type: finished website photography for Halo Works Dubai. Macro straight-on material photograph of thick ivory architect's cotton rag paper, tiny natural fibres, soft deckled texture but no visible paper edges, warm offwhite, beautifully subtle tactile surface revealed by raking light. Entire frame paper edge to edge. Premium professional camera photograph, nuanced real material imperfections, restrained warm neutral palette, tactile physical realism. No illustration, no CGI look, no text, no watermarks, no graphic frames.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-8b7edc1f-dde8-416a-9f48-095ed6c2cb17.png",
+    "method": "Built-in image generation",
+    "output": "public/images/texture-paper.webp"
+  },
+  {
+    "name": "scope-bathroom",
+    "prompt": "Use case: photorealistic-natural. Asset type: finished website photography for Halo Works Dubai. Editorial architecture detail photograph of a finished luxury Dubai bathroom: honed ivory travertine floating vanity, oak drawers with precise finger pulls, undermount basin, brushed bronze faucet, a linen towel, limewash walls, soft window light. Camera at human height, tightly composed landscape detail, exquisite tangible materials. Premium professional camera photograph, nuanced real material imperfections, restrained warm neutral palette, tactile physical realism. No illustration, no CGI look, no text, no watermarks, no graphic frames.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-0d968add-02b5-4fbf-bcd9-92d7c71d2eeb.png",
+    "method": "Built-in image generation",
+    "output": "public/images/scope-bathroom.webp"
+  },
+  {
+    "name": "scope-protection",
+    "prompt": "Use case: photorealistic-natural. Asset type: finished website photography for Halo Works Dubai. Authentic editorial photograph of careful renovation site preparation in a premium Dubai home. A worker's gloved hands neatly securing thick clean protective kraft board over a natural stone floor beside an existing timber doorway, a folded fabric dust sheet visible. No face, no text, no clutter, believable tools and hands, warm natural daylight. Close landscape composition. Premium professional camera photograph, nuanced real material imperfections, restrained warm neutral palette, tactile physical realism. No illustration, no CGI look, no text, no watermarks, no graphic frames.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-5e59c1e7-af0c-4305-a748-4f99cd167632.png",
+    "method": "Built-in image generation",
+    "output": "public/images/scope-protection.webp"
+  },
+  {
+    "name": "scope-joinery",
+    "prompt": "Use case: photorealistic-natural. Asset type: finished website photography for Halo Works Dubai. Photoreal editorial close-up of a skilled joiner's hands checking the alignment of a beautifully made oak drawer with concealed runners in a Dubai joinery workshop. Warm real timber grain, clean bench, tiny wood shavings, caliper lying beside cabinet, no face. Precise convincing construction, natural sidelight, landscape composition. Premium professional camera photograph, nuanced real material imperfections, restrained warm neutral palette, tactile physical realism. No illustration, no CGI look, no text, no watermarks, no graphic frames.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-451a1b6d-c81a-4d0f-a082-466a283a2e8b.png",
+    "method": "Built-in image generation",
+    "output": "public/images/scope-joinery.webp"
+  },
+  {
+    "name": "scope-office",
+    "prompt": "Use case: photorealistic-natural. Asset type: finished website photography for Halo Works Dubai. Editorial architecture photograph of a sophisticated quiet meeting room in Dubai. Natural oak oval conference table, four upholstered oatmeal chairs, glass partition, acoustic fabric wall panels, greenery glimpsed through glass, discreet linear lighting. Warm restrained atmosphere, daylight, realistic interior details. Landscape composition. Premium professional camera photograph, nuanced real material imperfections, restrained warm neutral palette, tactile physical realism. No illustration, no CGI look, no text, no watermarks, no graphic frames.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-b5f020f3-30c3-482e-a06b-f97a884bcb8e.png",
+    "method": "Built-in image generation",
+    "output": "public/images/scope-office.webp"
+  },
+  {
+    "name": "scope-retail",
+    "prompt": "Use case: photorealistic-natural. Asset type: finished website photography for Halo Works Dubai. Photoreal architecture detail photograph of a boutique showroom in Dubai, sculpted travertine display plinths, warm oak display shelves with subtle concealed lighting, a few carefully arranged unbranded ceramic home objects, bronze edge details, tactile plaster wall. Elegant realistic boutique fit-out, natural daylight, landscape composition. Premium professional camera photograph, nuanced real material imperfections, restrained warm neutral palette, tactile physical realism. No illustration, no CGI look, no text, no watermarks, no graphic frames.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-54afab1f-5fff-40ac-a671-8a76881ed8c0.png",
+    "method": "Built-in image generation",
+    "output": "public/images/scope-retail.webp"
+  },
+  {
+    "name": "scope-planning",
+    "prompt": "Use case: photorealistic-natural. Asset type: finished website photography for Halo Works Dubai. Photoreal editorial overhead photograph of an interior designer's working table: architectural floor plan with delicate actual linework on ivory paper, small oak and travertine material samples, bronze metal swatch, pencil and metal ruler, two hands gently reviewing a drawing. Warm daylight, believable paper and hands, no legible typography, no logos. Landscape composition. Premium professional camera photograph, nuanced real material imperfections, restrained warm neutral palette, tactile physical realism. No illustration, no CGI look, no text, no watermarks, no graphic frames.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-dad9ba0c-1292-485b-a426-e0670a70c31c.png",
+    "method": "Built-in image generation",
+    "output": "public/images/scope-planning.webp"
+  }
+]

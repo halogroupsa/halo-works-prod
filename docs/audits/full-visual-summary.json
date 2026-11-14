@@ -1,0 +1,55 @@
+{
+  "pages": 21,
+  "includes": "20 public pages and 404",
+  "widths": [
+    1366,
+    820,
+    390,
+    320
+  ],
+  "layout_checks": 84,
+  "layout_issues_remaining": 0,
+  "full_page_screenshots": 42,
+  "fixes": [
+    "Homepage headline: two words per line",
+    "Homepage hero grows with content; description and CTA fit",
+    "Contact sidebar image spacing corrected",
+    "Contact sidebar empty tablet column removed",
+    "Heading wrapping balanced",
+    "Material card labels aligned",
+    "Form email spellcheck and autocomplete improved"
+  ],
+  "interactions_verified": [
+    "Mobile menu open/Escape close",
+    "Joinery gallery filter",
+    "Material selection and label alignment",
+    "FAQ expansion",
+    "Enquiry preparation without sending"
+  ],
+  "lighthouse": {
+    "home-final": {
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "contact-final": {
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "service-final": {
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "article-final": {
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    }
+  }
+}

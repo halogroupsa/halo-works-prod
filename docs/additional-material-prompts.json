@@ -1,0 +1,16 @@
+[
+  {
+    "name": "texture-steel-natural",
+    "prompt": "Photorealistic-natural website material sample. Macro full-frame material photograph of real brushed stainless steel sheet, neutral silver-grey, fine linear hairline brushing, gentle authentic reflected daylight and small natural finish variation. Surface fills frame edge to edge, no objects, no text, no golden or bronze cast. Natural photographic realism, no render, watermark or illustration.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-0b65828a-9782-4c64-a4db-71b2f9e9581e.png",
+    "output": "public/images/texture-steel-natural.webp"
+  },
+  {
+    "name": "texture-sage-natural",
+    "prompt": "Photorealistic-natural website material sample. Close straight-on photograph of real muted sage-green glazed ceramic square tiles with fine offwhite grout joints, slight glaze variation and subtle believable diffuse daylight reflections. Entire frame covered by ceramic tile surface, true green, no objects or text, no uniform beige or amber color grade. Natural photographic realism, no render, watermark or illustration.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-a998913e-153d-4f45-bfb4-1a7108fe9ed9.png",
+    "output": "public/images/texture-sage-natural.webp"
+  }
+]

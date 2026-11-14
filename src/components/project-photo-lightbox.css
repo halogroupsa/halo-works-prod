@@ -1,0 +1,211 @@
+html:has(.project-photo-lightbox[open]) {
+  overflow: hidden;
+}
+
+.project-photo-lightbox {
+  --viewer-line: #ffffff30;
+  --viewer-muted: #d0d0d0;
+  position: fixed;
+  inset: 0;
+  width: min(calc(100% - 48px), 1440px);
+  height: min(calc(100dvh - 48px), 920px);
+  max-width: none;
+  max-height: none;
+  margin: auto;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid var(--viewer-line);
+  background: #171717;
+  color: #fff;
+}
+
+.project-photo-lightbox::backdrop {
+  background: rgb(0 0 0 / 88%);
+}
+
+.project-photo-panel {
+  display: grid;
+  grid-template-rows: auto minmax(0, 1fr) auto;
+  gap: clamp(12px, 2vw, 24px);
+  height: 100%;
+  padding: clamp(16px, 2.5vw, 34px);
+}
+
+.project-photo-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.project-photo-header .eyebrow {
+  color: var(--viewer-muted);
+  margin-bottom: 5px;
+}
+
+.project-photo-header h2 {
+  font-size: clamp(19px, 2.6vw, 34px);
+}
+
+.project-photo-control {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  color: inherit;
+  border: 1px solid var(--viewer-line);
+  background: transparent;
+}
+
+.project-photo-prev svg {
+  rotate: 180deg;
+}
+
+.project-photo-lightbox :is(button, a):focus-visible {
+  outline: 2px solid white;
+  outline-offset: 2px;
+}
+
+.project-photo-control:hover {
+  background: #ffffff20;
+}
+
+.project-photo-stage {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(230px, 26%);
+  gap: clamp(16px, 2.5vw, 34px);
+  min-height: 0;
+}
+
+.project-photo-image {
+  min-height: 0;
+  background: #0c0c0c;
+}
+
+.project-photo-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.project-photo-story {
+  align-self: center;
+  max-height: 100%;
+  overflow: auto;
+  overscroll-behavior: contain;
+  padding: 4px 6px 4px 20px;
+  border-left: 1px solid var(--viewer-line);
+}
+
+.project-photo-story h3 {
+  font-size: clamp(19px, 2vw, 25px);
+  margin-bottom: 6px;
+}
+
+.project-photo-story p {
+  color: var(--viewer-muted);
+  font-size: 15px;
+}
+
+.project-photo-story > p,
+.project-photo-facts {
+  margin-top: 12px;
+}
+
+.project-photo-facts > div {
+  display: grid;
+  grid-template-columns: 60px minmax(0, 1fr);
+  gap: 8px;
+  font-size: 14px;
+}
+
+.project-photo-facts dt {
+  color: var(--viewer-muted);
+}
+
+.project-photo-facts dd {
+  margin: 0;
+}
+
+.project-photo-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 18px;
+  margin-top: 4px;
+}
+
+.project-photo-links .text-link {
+  color: inherit;
+  border-color: var(--viewer-line);
+  gap: 10px;
+}
+
+.project-photo-links .text-link:hover {
+  border-color: white;
+}
+
+.project-photo-footer {
+  display: grid;
+  grid-template-columns: auto auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: clamp(6px, 1vw, 14px);
+}
+
+.project-photo-counter {
+  font: 500 12px/1.2 var(--utility);
+  white-space: nowrap;
+}
+
+.project-photo-thumbnails {
+  display: flex;
+  gap: 6px;
+  min-width: 0;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  scrollbar-width: thin;
+  padding: 4px;
+}
+
+.project-photo-thumbnails button {
+  flex: 0 0 clamp(48px, 7vw, 76px);
+  min-height: 44px;
+  padding: 2px;
+  border: 1px solid transparent;
+  background: none;
+  opacity: 0.7;
+}
+
+.project-photo-thumbnails button:is([aria-current], :hover, :focus-visible) {
+  border-color: white;
+  opacity: 1;
+}
+
+.project-photo-thumbnails img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+@media (max-width: 767px) {
+  .project-photo-lightbox {
+    width: 100%;
+    height: 100dvh;
+    border: 0;
+  }
+
+  .project-photo-stage {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: minmax(160px, 1fr) auto;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+
+  .project-photo-story {
+    overflow: visible;
+    padding: 0 4px 4px;
+    border-left: 0;
+  }
+}

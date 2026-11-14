@@ -1,0 +1,38 @@
+[
+  {
+    "name": "hero",
+    "prompt": "Photorealistic architectural editorial photograph, wide landscape 1536x1024. Contemporary Dubai villa in warm limestone and board formed concrete with expansive glass, olive tree and serene reflecting pool. Building dominates RIGHT TWO THIRDS, LEFT THIRD pale empty hazy sky and distant low desert landscape with soft cream tones, deliberately clean space for website headline. Golden hour, natural light, muted taupe warm whites charcoal bronze, refined Belgian minimalism. Strong horizontal cantilever roof, real material texture, believable proportions. No text no logos no people no watermark. High end architecture magazine photography.",
+    "method": "Built-in image generation",
+    "output": "public/images/hero.webp"
+  },
+  {
+    "name": "living",
+    "prompt": "Photorealistic luxury interior editorial photograph wide landscape. Dubai contemporary living room with ivory linen low sofa, travertine coffee table, smoked oak cabinetry, huge floor to ceiling window on left framing olive garden, warm limestone walls, afternoon sun. Quiet tactile lived-in sophistication, beautiful realistic light, no text no logo no people. Architecture magazine photography, warm ivory charcoal muted copper palette.",
+    "method": "Built-in image generation",
+    "output": "public/images/living.webp"
+  },
+  {
+    "name": "kitchen",
+    "prompt": "Photorealistic architectural interior photograph wide landscape. Exceptionally crafted contemporary kitchen, dark smoked oak full height cabinets with precise slim reveals, huge honed travertine island, bronze tap, two understated pendants, soft natural sunlight from right. Neutral limestone floor, minimal styling ceramic bowl branches. Premium Dubai villa, real believable materials, no text no watermark no people.",
+    "method": "Built-in image generation",
+    "output": "public/images/kitchen.webp"
+  },
+  {
+    "name": "workplace",
+    "prompt": "Photorealistic architectural editorial photograph wide landscape. Boutique Dubai workplace reception and lounge, curved warm limestone reception desk, ribbed walnut joinery, glass partitions, linen lounge chairs, indoor olive tree, quiet light stone flooring, ceiling linear lighting. Beautiful daylight, warm earthy neutral tones, luxurious but functional credible modern workplace. No signage no letters no logos no people.",
+    "method": "Built-in image generation",
+    "output": "public/images/workplace.webp"
+  },
+  {
+    "name": "hospitality",
+    "prompt": "Photorealistic interior architecture editorial photograph wide landscape. Beautiful intimate contemporary Dubai restaurant, curved walnut banquettes upholstered warm camel linen, round travertine tables, sculptural bronze pendant lights, softly textured ivory plaster arches, olive branches, warm evening lighting and soft window daylight. Elegant handcrafted joinery, tactile materials. No text no logos no people no watermark.",
+    "method": "Built-in image generation",
+    "output": "public/images/hospitality.webp"
+  },
+  {
+    "name": "detail",
+    "prompt": "Photorealistic minimalist architectural still life wide landscape. On LEFT THIRD a travertine plinth holding an aged bronze brown ceramic vase with a few tall delicate bare branches, small stone sample and ivory linen. Remaining RIGHT TWO THIRDS quiet pale warm textured limewash wall with subtle natural shadows. Sophisticated editorial interior detail, soft daylight, warm off-white taupe copper. No text no logo.",
+    "method": "Built-in image generation",
+    "output": "public/images/detail.webp"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "journal-studio",
+    "prompt": "Use case: photorealistic-natural. Asset type: website photography for interior design and fit-out company Halo Works. Candid professional architectural photograph of a real working interior design studio. Cool clear morning daylight from a large side window. White walls, muted blue pinboard, black steel shelves, plywood desk with open design books, actual drawings and scattered colored material samples. A green plant. Real lived-in creative workspace, imperfect but tidy. Neutral white balance, true blues and greens, no amber color grade. No people. Landscape. It must look like a photograph taken in a real location, not a 3D render or idealized AI image. Distinct genuine colors, realistic exposure and shadows. No skyline, no landmarks, no Burj Khalifa, no iconic buildings, no logos, no text, no watermark.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-1ddf9f7c-8187-4ba4-8514-517b4e660cca.png",
+    "method": "Built-in image generation",
+    "output": "public/images/journal-studio.webp"
+  },
+  {
+    "name": "contact-studio",
+    "prompt": "Use case: photorealistic-natural. Asset type: website photography for interior design and fit-out company Halo Works. Natural professional photograph of a welcoming design consultation lounge: deep forest-green fabric armchairs, white plaster walls, black metal window frames, a pale ash meeting table, a few colorful books and fresh leafy plant. Clear soft midday daylight, true-to-life white balance, quiet approachable place. Realistic everyday furniture, modest authentic details, not a showroom render. No people. Landscape. It must look like a photograph taken in a real location, not a 3D render or idealized AI image. Distinct genuine colors, realistic exposure and shadows. No skyline, no landmarks, no Burj Khalifa, no iconic buildings, no logos, no text, no watermark.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-e09e3d1e-c952-4f4b-8e92-daeb3cfb0d63.png",
+    "method": "Built-in image generation",
+    "output": "public/images/contact-studio.webp"
+  },
+  {
+    "name": "about-craft",
+    "prompt": "Use case: photorealistic-natural. Asset type: website photography for interior design and fit-out company Halo Works. Documentary photograph of an experienced craftsperson in a navy-blue work shirt, side/back view, using a small measuring tool to inspect white-painted built-in cabinetry in a bright real residential interior. Pale timber floor, actual minor wood imperfections, natural daylight with neutral whites and true skin tones. Authentic hands and proportions, no identifiable face. No gold filters. Landscape. It must look like a photograph taken in a real location, not a 3D render or idealized AI image. Distinct genuine colors, realistic exposure and shadows. No skyline, no landmarks, no Burj Khalifa, no iconic buildings, no logos, no text, no watermark.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-b9f64ae4-a873-4840-b984-cb903e8ef92a.png",
+    "method": "Built-in image generation",
+    "output": "public/images/about-craft.webp"
+  },
+  {
+    "name": "process-hero",
+    "prompt": "Use case: photorealistic-natural. Asset type: website photography for interior design and fit-out company Halo Works. Documentary architectural photograph of an organized interior renovation in progress: white and pale grey walls, carefully protected floor, exposed service points near a wall, black toolbox, blue step ladder, a neat workbench with drawings. Strong soft natural daylight through plain window with leafy trees outside. Real property, believable construction details, understated neutral colors, no golden lighting. No people. Landscape. It must look like a photograph taken in a real location, not a 3D render or idealized AI image. Distinct genuine colors, realistic exposure and shadows. No skyline, no landmarks, no Burj Khalifa, no iconic buildings, no logos, no text, no watermark.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-c7563064-7a9a-456b-9eab-1597ead6e431.png",
+    "method": "Built-in image generation",
+    "output": "public/images/process-hero.webp"
+  },
+  {
+    "name": "article-renovation",
+    "prompt": "Use case: photorealistic-natural. Asset type: website photography for interior design and fit-out company Halo Works. Realistic architectural magazine photograph of a lived-in family dining room renovated with soft sage-green built-in cupboards, off-white walls, a natural oak table, woven chairs, a muted rust-colored rug and a few family books. Gentle overcast daylight, true material colors, tiny everyday imperfections, restrained believable styling. Window faces ordinary garden greenery. Neutral photographic white balance, no sepia or gold grade. No people. Landscape. It must look like a photograph taken in a real location, not a 3D render or idealized AI image. Distinct genuine colors, realistic exposure and shadows. No skyline, no landmarks, no Burj Khalifa, no iconic buildings, no logos, no text, no watermark.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-0945dd8d-1edd-4509-b36f-23cd0e559124.png",
+    "method": "Built-in image generation",
+    "output": "public/images/article-renovation.webp"
+  },
+  {
+    "name": "article-materials",
+    "prompt": "Use case: photorealistic-natural. Asset type: website photography for interior design and fit-out company Halo Works. Natural high-resolution overhead photograph of actual interior material samples on a plain white worktable: light oak, walnut, cool white marble with grey veins, sage green ceramic tile, dusty blue woven upholstery, a small brushed stainless steel piece, real pencil. Bright diffuse daylight, accurate colors, tangible pores and fibres. Practical material selection, not symmetrical AI styling. No labels or typography. Landscape. It must look like a photograph taken in a real location, not a 3D render or idealized AI image. Distinct genuine colors, realistic exposure and shadows. No skyline, no landmarks, no Burj Khalifa, no iconic buildings, no logos, no text, no watermark.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-de056990-8db6-4fc7-ae70-c42b486a2bf2.png",
+    "method": "Built-in image generation",
+    "output": "public/images/article-materials.webp"
+  },
+  {
+    "name": "article-workplace",
+    "prompt": "Use case: photorealistic-natural. Asset type: website photography for interior design and fit-out company Halo Works. Real professional architectural photograph of a human-scale office with a navy-blue upholstered meeting nook, light ash desks, white walls, black task chairs, muted red-orange desk lamp and a few green plants. Natural cloudy-day daylight, no glowing mood lighting. Honest usable workplace with realistic cable management, notebook and coffee cup, everyday imperfections, no people. Landscape. It must look like a photograph taken in a real location, not a 3D render or idealized AI image. Distinct genuine colors, realistic exposure and shadows. No skyline, no landmarks, no Burj Khalifa, no iconic buildings, no logos, no text, no watermark.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-df5324f8-a66f-427a-abbc-f17d14489043.png",
+    "method": "Built-in image generation",
+    "output": "public/images/article-workplace.webp"
+  },
+  {
+    "name": "process-inspection",
+    "prompt": "Use case: photorealistic-natural. Asset type: website photography for interior design and fit-out company Halo Works. Documentary close-up photograph of a project coordinator's hands checking the alignment of a white-painted cabinet door with a small metal straightedge during interior handover. Grey flooring, natural maple cabinetry interior, a navy clipboard with paper checklist out of focus, no readable text. Neutral natural daylight, true skin color, believable hands and physical details, no yellow filter, no gold decor. Landscape. It must look like a photograph taken in a real location, not a 3D render or idealized AI image. Distinct genuine colors, realistic exposure and shadows. No skyline, no landmarks, no Burj Khalifa, no iconic buildings, no logos, no text, no watermark.",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-7211fbc7-7c52-4cec-9bf8-49cc3eabb351.png",
+    "method": "Built-in image generation",
+    "output": "public/images/process-inspection.webp"
+  }
+]

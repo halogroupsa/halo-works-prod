@@ -1,0 +1,506 @@
+[
+  {
+    "path": "/",
+    "width": 1366,
+    "height": 3994,
+    "issues": []
+  },
+  {
+    "path": "/about/",
+    "width": 1366,
+    "height": 4487,
+    "issues": []
+  },
+  {
+    "path": "/services/",
+    "width": 1366,
+    "height": 4547,
+    "issues": []
+  },
+  {
+    "path": "/services/home-renovation/",
+    "width": 1366,
+    "height": 5415,
+    "issues": []
+  },
+  {
+    "path": "/services/bespoke-joinery/",
+    "width": 1366,
+    "height": 5353,
+    "issues": []
+  },
+  {
+    "path": "/services/office-fit-out/",
+    "width": 1366,
+    "height": 5321,
+    "issues": []
+  },
+  {
+    "path": "/services/hospitality-retail/",
+    "width": 1366,
+    "height": 5353,
+    "issues": []
+  },
+  {
+    "path": "/services/project-delivery/",
+    "width": 1366,
+    "height": 5353,
+    "issues": []
+  },
+  {
+    "path": "/spaces/",
+    "width": 1366,
+    "height": 2657,
+    "issues": []
+  },
+  {
+    "path": "/spaces/the-courtyard-home/",
+    "width": 1366,
+    "height": 3372,
+    "issues": []
+  },
+  {
+    "path": "/spaces/the-crafted-kitchen/",
+    "width": 1366,
+    "height": 3332,
+    "issues": []
+  },
+  {
+    "path": "/spaces/a-quieter-workplace/",
+    "width": 1366,
+    "height": 3332,
+    "issues": []
+  },
+  {
+    "path": "/spaces/the-gathering-place/",
+    "width": 1366,
+    "height": 3372,
+    "issues": []
+  },
+  {
+    "path": "/process/",
+    "width": 1366,
+    "height": 4198,
+    "issues": []
+  },
+  {
+    "path": "/journal/",
+    "width": 1366,
+    "height": 2636,
+    "issues": []
+  },
+  {
+    "path": "/journal/before-you-renovate/",
+    "width": 1366,
+    "height": 2967,
+    "issues": []
+  },
+  {
+    "path": "/journal/materials-that-work/",
+    "width": 1366,
+    "height": 2705,
+    "issues": []
+  },
+  {
+    "path": "/journal/a-workplace-with-purpose/",
+    "width": 1366,
+    "height": 2705,
+    "issues": []
+  },
+  {
+    "path": "/contact/",
+    "width": 1366,
+    "height": 2812,
+    "issues": []
+  },
+  {
+    "path": "/privacy/",
+    "width": 1366,
+    "height": 1876,
+    "issues": []
+  },
+  {
+    "path": "/not-a-page/",
+    "width": 1366,
+    "height": 1065,
+    "issues": []
+  },
+  {
+    "path": "/",
+    "width": 820,
+    "height": 4151,
+    "issues": []
+  },
+  {
+    "path": "/about/",
+    "width": 820,
+    "height": 5112,
+    "issues": []
+  },
+  {
+    "path": "/services/",
+    "width": 820,
+    "height": 4608,
+    "issues": []
+  },
+  {
+    "path": "/services/home-renovation/",
+    "width": 820,
+    "height": 5507,
+    "issues": []
+  },
+  {
+    "path": "/services/bespoke-joinery/",
+    "width": 820,
+    "height": 5400,
+    "issues": []
+  },
+  {
+    "path": "/services/office-fit-out/",
+    "width": 820,
+    "height": 5445,
+    "issues": []
+  },
+  {
+    "path": "/services/hospitality-retail/",
+    "width": 820,
+    "height": 5457,
+    "issues": []
+  },
+  {
+    "path": "/services/project-delivery/",
+    "width": 820,
+    "height": 5376,
+    "issues": []
+  },
+  {
+    "path": "/spaces/",
+    "width": 820,
+    "height": 2628,
+    "issues": []
+  },
+  {
+    "path": "/spaces/the-courtyard-home/",
+    "width": 820,
+    "height": 3604,
+    "issues": []
+  },
+  {
+    "path": "/spaces/the-crafted-kitchen/",
+    "width": 820,
+    "height": 3564,
+    "issues": []
+  },
+  {
+    "path": "/spaces/a-quieter-workplace/",
+    "width": 820,
+    "height": 3564,
+    "issues": []
+  },
+  {
+    "path": "/spaces/the-gathering-place/",
+    "width": 820,
+    "height": 3645,
+    "issues": []
+  },
+  {
+    "path": "/process/",
+    "width": 820,
+    "height": 4809,
+    "issues": []
+  },
+  {
+    "path": "/journal/",
+    "width": 820,
+    "height": 2736,
+    "issues": []
+  },
+  {
+    "path": "/journal/before-you-renovate/",
+    "width": 820,
+    "height": 3353,
+    "issues": []
+  },
+  {
+    "path": "/journal/materials-that-work/",
+    "width": 820,
+    "height": 3018,
+    "issues": []
+  },
+  {
+    "path": "/journal/a-workplace-with-purpose/",
+    "width": 820,
+    "height": 3019,
+    "issues": []
+  },
+  {
+    "path": "/contact/",
+    "width": 820,
+    "height": 2928,
+    "issues": []
+  },
+  {
+    "path": "/privacy/",
+    "width": 820,
+    "height": 1916,
+    "issues": []
+  },
+  {
+    "path": "/not-a-page/",
+    "width": 820,
+    "height": 1069,
+    "issues": []
+  },
+  {
+    "path": "/",
+    "width": 390,
+    "height": 6534,
+    "issues": []
+  },
+  {
+    "path": "/about/",
+    "width": 390,
+    "height": 7030,
+    "issues": []
+  },
+  {
+    "path": "/services/",
+    "width": 390,
+    "height": 5679,
+    "issues": []
+  },
+  {
+    "path": "/services/home-renovation/",
+    "width": 390,
+    "height": 7775,
+    "issues": []
+  },
+  {
+    "path": "/services/bespoke-joinery/",
+    "width": 390,
+    "height": 7635,
+    "issues": []
+  },
+  {
+    "path": "/services/office-fit-out/",
+    "width": 390,
+    "height": 7667,
+    "issues": []
+  },
+  {
+    "path": "/services/hospitality-retail/",
+    "width": 390,
+    "height": 7723,
+    "issues": []
+  },
+  {
+    "path": "/services/project-delivery/",
+    "width": 390,
+    "height": 7676,
+    "issues": []
+  },
+  {
+    "path": "/spaces/",
+    "width": 390,
+    "height": 4118,
+    "issues": []
+  },
+  {
+    "path": "/spaces/the-courtyard-home/",
+    "width": 390,
+    "height": 3966,
+    "issues": []
+  },
+  {
+    "path": "/spaces/the-crafted-kitchen/",
+    "width": 390,
+    "height": 3877,
+    "issues": []
+  },
+  {
+    "path": "/spaces/a-quieter-workplace/",
+    "width": 390,
+    "height": 3896,
+    "issues": []
+  },
+  {
+    "path": "/spaces/the-gathering-place/",
+    "width": 390,
+    "height": 3942,
+    "issues": []
+  },
+  {
+    "path": "/process/",
+    "width": 390,
+    "height": 6398,
+    "issues": []
+  },
+  {
+    "path": "/journal/",
+    "width": 390,
+    "height": 3783,
+    "issues": []
+  },
+  {
+    "path": "/journal/before-you-renovate/",
+    "width": 390,
+    "height": 4182,
+    "issues": []
+  },
+  {
+    "path": "/journal/materials-that-work/",
+    "width": 390,
+    "height": 3731,
+    "issues": []
+  },
+  {
+    "path": "/journal/a-workplace-with-purpose/",
+    "width": 390,
+    "height": 3698,
+    "issues": []
+  },
+  {
+    "path": "/contact/",
+    "width": 390,
+    "height": 4098,
+    "issues": []
+  },
+  {
+    "path": "/privacy/",
+    "width": 390,
+    "height": 2589,
+    "issues": []
+  },
+  {
+    "path": "/not-a-page/",
+    "width": 390,
+    "height": 1559,
+    "issues": []
+  },
+  {
+    "path": "/",
+    "width": 320,
+    "height": 6741,
+    "issues": []
+  },
+  {
+    "path": "/about/",
+    "width": 320,
+    "height": 7476,
+    "issues": []
+  },
+  {
+    "path": "/services/",
+    "width": 320,
+    "height": 5875,
+    "issues": []
+  },
+  {
+    "path": "/services/home-renovation/",
+    "width": 320,
+    "height": 7919,
+    "issues": []
+  },
+  {
+    "path": "/services/bespoke-joinery/",
+    "width": 320,
+    "height": 7815,
+    "issues": []
+  },
+  {
+    "path": "/services/office-fit-out/",
+    "width": 320,
+    "height": 7828,
+    "issues": []
+  },
+  {
+    "path": "/services/hospitality-retail/",
+    "width": 320,
+    "height": 7909,
+    "issues": []
+  },
+  {
+    "path": "/services/project-delivery/",
+    "width": 320,
+    "height": 7875,
+    "issues": []
+  },
+  {
+    "path": "/spaces/",
+    "width": 320,
+    "height": 4358,
+    "issues": []
+  },
+  {
+    "path": "/spaces/the-courtyard-home/",
+    "width": 320,
+    "height": 4209,
+    "issues": []
+  },
+  {
+    "path": "/spaces/the-crafted-kitchen/",
+    "width": 320,
+    "height": 4251,
+    "issues": []
+  },
+  {
+    "path": "/spaces/a-quieter-workplace/",
+    "width": 320,
+    "height": 4230,
+    "issues": []
+  },
+  {
+    "path": "/spaces/the-gathering-place/",
+    "width": 320,
+    "height": 4215,
+    "issues": []
+  },
+  {
+    "path": "/process/",
+    "width": 320,
+    "height": 6902,
+    "issues": []
+  },
+  {
+    "path": "/journal/",
+    "width": 320,
+    "height": 3935,
+    "issues": []
+  },
+  {
+    "path": "/journal/before-you-renovate/",
+    "width": 320,
+    "height": 4471,
+    "issues": []
+  },
+  {
+    "path": "/journal/materials-that-work/",
+    "width": 320,
+    "height": 3953,
+    "issues": []
+  },
+  {
+    "path": "/journal/a-workplace-with-purpose/",
+    "width": 320,
+    "height": 3880,
+    "issues": []
+  },
+  {
+    "path": "/contact/",
+    "width": 320,
+    "height": 4206,
+    "issues": []
+  },
+  {
+    "path": "/privacy/",
+    "width": 320,
+    "height": 2692,
+    "issues": []
+  },
+  {
+    "path": "/not-a-page/",
+    "width": 320,
+    "height": 1559,
+    "issues": []
+  }
+]

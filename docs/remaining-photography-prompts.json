@@ -1,0 +1,114 @@
+[
+  {
+    "name": "hero-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Wide horizontal architectural photograph of a real contemporary two-storey family villa. White rendered walls, pale grey concrete slabs, natural timber sun screens, a small clear blue swimming pool and ordinary leafy garden. Building occupies the right two thirds, left third is pale open sky and low garden with simple background for a dark website heading. Fresh bright morning daylight, true blue water and green leaves, accurate neutral white balance. Believable residential scale and construction, no oversize dramatic cantilevers, no sunset. Landscape 3:2. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-9c37af2c-a1a6-4691-9605-9adbd9f2a753.png",
+    "output": "public/images/hero-natural.webp"
+  },
+  {
+    "name": "living-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Architectural editorial photograph of a comfortable lived-in family living room opening onto a small leafy courtyard. Slate blue linen sofa, natural oak built-in shelves, white walls, a muted rust flatweave rug, light grey stone floor, a coffee cup and a few books. Bright soft daylight, realistic reflections, comfortable human-scale furniture and subtle everyday imperfections. Green courtyard visible through plain glazing. Landscape. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-ab0cba8e-4b60-4962-a67b-4dc011f2eea0.png",
+    "output": "public/images/living-natural.webp"
+  },
+  {
+    "name": "kitchen-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Real interior photograph of a beautifully built kitchen with dark walnut lower cabinets, a white veined stone island, muted sage-green glazed backsplash tiles, simple stainless steel tap, pendant lights switched off, a chopping board and bowl of citrus. Large side window admits soft neutral morning daylight. True walnut grain and tile variation, believable practical layout and appliances, a home people use. Landscape. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-79c1fcee-1004-4a0c-afa7-a1696f66df02.png",
+    "output": "public/images/kitchen-natural.webp"
+  },
+  {
+    "name": "workplace-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Professional architectural photograph of a small business office reception: natural ash reception desk, deep navy upholstered waiting chairs, white walls, pale grey flooring, black steel-framed glass partition, leafy plant and simple wall art without text. Cool clear daylight, realistic exposed material texture, ordinary garden through window. Refined but usable and believable. No gold decorative lighting. Landscape. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-992bb046-3ad8-4554-bac9-9c197e1aa444.png",
+    "output": "public/images/workplace-natural.webp"
+  },
+  {
+    "name": "hospitality-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Authentic architectural interior photograph of a neighborhood restaurant with forest-green upholstered banquettes, walnut dining tables, black metal chairs, white painted walls, a muted terracotta tile floor and broad side windows. Quiet mid-morning before opening, natural daylight, real glasses and tableware neatly set, pendants switched off. Tactile everyday hospitality interior, restrained contemporary design, no arches or giant sculptural lighting. Landscape. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-fbe21e1d-0062-4881-96d5-0a0f1b2893c7.png",
+    "output": "public/images/hospitality-natural.webp"
+  },
+  {
+    "name": "detail-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Real interior still-life photograph, wide horizontal composition. Far left: matte deep blue ceramic vase with a few leafy branches on a pale stone shelf, an actual timber offcut and folded offwhite cloth. Right two thirds: plain neutral offwhite plaster wall with very subtle natural surface texture, clean negative space for dark website text. Gentle diffuse daylight, true blues, whites and leaf greens, fine believable texture. No golden filter or dramatic warm shadows. Landscape. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-84e1b3d5-c22a-4d09-a251-a5d370c59bef.png",
+    "output": "public/images/detail-natural.webp"
+  },
+  {
+    "name": "scope-bathroom-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Photoreal architectural detail photograph of a real bathroom vanity: white terrazzo countertop with subtle grey and green chips, pale oak cabinet drawers, muted green square ceramic backsplash tiles, brushed stainless steel tap, neatly folded white hand towel. Clear diffuse window daylight, actual grout lines, accurate physical surfaces, no yellow grade. Close landscape composition. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-b676c4d8-28e7-4b4f-86f5-a6d714da09c9.png",
+    "output": "public/images/scope-bathroom-natural.webp"
+  },
+  {
+    "name": "scope-protection-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Documentary photograph of renovation preparation. Worker in practical blue work trousers and grey gloves carefully tapes protective brown card onto an existing natural oak floor beside a white-painted doorway. Authentic hands, real tape roll, neat professional work, no face. Neutral daylight, believable ordinary home, true colors and natural imperfections. Landscape. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-c5b966bf-8520-4feb-8676-acf6012f83df.png",
+    "output": "public/images/scope-protection-natural.webp"
+  },
+  {
+    "name": "scope-joinery-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Documentary detail photograph of a joiner in a navy work shirt checking an open natural ash drawer in a real workshop. Clean white cabinet carcass, visible precision hardware, a metal caliper and a few small shavings on a grey workbench. Authentic hands, no face, realistic wood grain, broad diffuse workshop daylight, neutral whites, no warm filter. Landscape. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-46428ed2-9a74-4ef0-b352-7da9c5cca802.png",
+    "output": "public/images/scope-joinery-natural.webp"
+  },
+  {
+    "name": "scope-office-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Professional natural-light photograph of a functional meeting room: rectangular light oak table, slate-blue upholstered chairs, white walls, frosted glass partition, simple ceiling services and a green potted plant. Table has a notebook, pencil and clear water carafe. Believable proportions, calm ordinary office, overcast daylight and true material colours. Landscape. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-f02690ea-faa0-4afb-bad8-8d862469b974.png",
+    "output": "public/images/scope-office-natural.webp"
+  },
+  {
+    "name": "scope-retail-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Real architectural detail photograph of a small contemporary homewares boutique: white-painted display shelves on black steel brackets, a forest-green counter, understated terracotta and blue ceramic objects, grey concrete flooring, daylight through a shop window. Designed with care but convincingly real, no gold palette, no unrealistically perfect symmetry, no labels or signage. Landscape. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-c8cd26eb-72d4-433e-b571-52c5e0935fe8.png",
+    "output": "public/images/scope-retail-natural.webp"
+  },
+  {
+    "name": "scope-planning-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Candid overhead photograph of a designer's actual working table: white architectural plan sheets with believable fine linework, a natural oak sample, sage tile, slate-blue fabric, grey stone and stainless steel samples, pencil and metal ruler. One person's hands review a drawing. Cool neutral daylight, real paper fibres and material surfaces, slightly informal arrangement. No readable words. Landscape. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-7afe93cf-119c-4988-9cb2-877612ca327a.png",
+    "output": "public/images/scope-planning-natural.webp"
+  },
+  {
+    "name": "texture-blue-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Extreme close-up full-frame photographic texture of slate-blue woven wool upholstery fabric. True cool blue-grey color, visible natural warp and weft, slight yarn variations and tiny authentic fibres. Soft diffuse neutral daylight, surface fills image edge to edge, no objects, folds or decorative additions. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-522990b0-f07c-4d4a-8bed-11e56c545a26.png",
+    "output": "public/images/texture-blue-natural.webp"
+  },
+  {
+    "name": "texture-green-natural",
+    "prompt": "Use case: photorealistic-natural. Asset type: Halo Works interior fit-out website imagery. Extreme close-up full-frame material photograph of forest-green upholstery fabric, natural woven linen-cotton blend. Rich true muted green colour, finely visible irregular threads and fibres, subtle physical variation. Diffuse neutral daylight, entire frame is fabric edge to edge, no objects or text. Make this indistinguishable from a location photograph taken with a professional camera: natural exposure, true colors, physical details and small imperfections. No rendered or glossy AI aesthetic, no sepia, amber or uniform beige color grade. No skyline, no landmarks, no Burj Khalifa, no iconic buildings. No logos, typography or watermark.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-e4e6020c-f758-4a56-85bd-20d559d56fed.png",
+    "output": "public/images/texture-green-natural.webp"
+  },
+  {
+    "name": "texture-steel-natural",
+    "prompt": "Photorealistic-natural website material sample. Macro full-frame material photograph of real brushed stainless steel sheet, neutral silver-grey, fine linear hairline brushing, gentle authentic reflected daylight and small natural finish variation. Surface fills frame edge to edge, no objects, no text, no golden or bronze cast. Natural photographic realism, no render, watermark or illustration.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-0b65828a-9782-4c64-a4db-71b2f9e9581e.png",
+    "output": "public/images/texture-steel-natural.webp"
+  },
+  {
+    "name": "texture-sage-natural",
+    "prompt": "Photorealistic-natural website material sample. Close straight-on photograph of real muted sage-green glazed ceramic square tiles with fine offwhite grout joints, slight glaze variation and subtle believable diffuse daylight reflections. Entire frame covered by ceramic tile surface, true green, no objects or text, no uniform beige or amber color grade. Natural photographic realism, no render, watermark or illustration.",
+    "method": "Built-in image generation",
+    "original": "/Users/dilanjayamanne/.codex/generated_images/01a1ab21-662e-7613-82df-8b252f905500/exec-a998913e-153d-4f45-bfb4-1a7108fe9ed9.png",
+    "output": "public/images/texture-sage-natural.webp"
+  }
+]

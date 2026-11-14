@@ -1,0 +1,306 @@
+[
+  {
+    "path": "/about/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/contact/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/services/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/services/home-renovation/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/services/bespoke-joinery/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/services/office-fit-out/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/services/hospitality-retail/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/services/project-delivery/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/spaces/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/spaces/the-courtyard-home/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/spaces/the-crafted-kitchen/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/spaces/a-quieter-workplace/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/spaces/the-gathering-place/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/process/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/journal/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/journal/before-you-renovate/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/journal/materials-that-work/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/journal/a-workplace-with-purpose/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/privacy/",
+    "width": 1024,
+    "heroHeight": 620,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/about/",
+    "width": 320,
+    "heroHeight": 722,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/contact/",
+    "width": 320,
+    "heroHeight": 697,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/services/",
+    "width": 320,
+    "heroHeight": 745,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/services/home-renovation/",
+    "width": 320,
+    "heroHeight": 730,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/services/bespoke-joinery/",
+    "width": 320,
+    "heroHeight": 778,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/services/office-fit-out/",
+    "width": 320,
+    "heroHeight": 778,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/services/hospitality-retail/",
+    "width": 320,
+    "heroHeight": 803,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/services/project-delivery/",
+    "width": 320,
+    "heroHeight": 826,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/spaces/",
+    "width": 320,
+    "heroHeight": 697,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/spaces/the-courtyard-home/",
+    "width": 320,
+    "heroHeight": 598,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/spaces/the-crafted-kitchen/",
+    "width": 320,
+    "heroHeight": 623,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/spaces/a-quieter-workplace/",
+    "width": 320,
+    "heroHeight": 623,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/spaces/the-gathering-place/",
+    "width": 320,
+    "heroHeight": 598,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/process/",
+    "width": 320,
+    "heroHeight": 697,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/journal/",
+    "width": 320,
+    "heroHeight": 671,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/journal/before-you-renovate/",
+    "width": 320,
+    "heroHeight": 691,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/journal/materials-that-work/",
+    "width": 320,
+    "heroHeight": 650,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/journal/a-workplace-with-purpose/",
+    "width": 320,
+    "heroHeight": 609,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  },
+  {
+    "path": "/privacy/",
+    "width": 320,
+    "heroHeight": 598,
+    "consistent": true,
+    "overflow": false,
+    "overlap": false
+  }
+]

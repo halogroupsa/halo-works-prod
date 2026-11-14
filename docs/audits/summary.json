@@ -1,0 +1,77 @@
+{
+  "checked": "2026-11-05",
+  "environment": "Local production static export at localhost:3007",
+  "pages": 20,
+  "mobile_width_checked": 320,
+  "export_audit": "passed",
+  "metadata_and_schema_audit": "passed",
+  "interactive_checks": [
+    "material selection updates text and pressed state",
+    "FAQ expansion reveals answer"
+  ],
+  "lighthouse": {
+    "home-desktop": {
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "renovation-mobile": {
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    }
+  },
+  "notes": [
+    "Scores describe technical checks, not search rankings.",
+    "A final title-only update added the brand suffix to the homepage; export and SEO checks were rerun afterwards.",
+    "Partner logos and reviews are attributed to Halo Interiors."
+  ],
+  "material_photography_update": {
+    "new_images": 12,
+    "service_pages_checked": 5,
+    "spaces_material_swatches_checked": true,
+    "broken_images": 0,
+    "mobile_overflow": false,
+    "material_selection": "passed",
+    "scroll_reveal_animation": "observed in browser",
+    "lighthouse_joinery_mobile": {
+      "seo": 100,
+      "accessibility": 100,
+      "best_practices": 100
+    }
+  },
+  "inner_page_consistency_update": {
+    "inner_pages": 19,
+    "viewport_checks": 38,
+    "widths": [
+      1024,
+      320
+    ],
+    "layout_issues": 0,
+    "new_natural_photographs": 8,
+    "export_audit": "passed",
+    "metadata_and_hero_consistency_audit": "passed",
+    "journal_lighthouse": {
+      "seo": 100,
+      "accessibility": 100,
+      "best_practices": 100
+    }
+  },
+  "remaining_photography_refresh": {
+    "new_images": 16,
+    "scene_photos": 12,
+    "material_photos": 4,
+    "pages_checked": 20,
+    "broken_images": 0,
+    "mobile_overflow": false,
+    "build": "passed",
+    "seo_and_export_checks": "passed",
+    "homepage_lighthouse": {
+      "seo": 100,
+      "accessibility": 100,
+      "best_practices": 100
+    }
+  }
+}

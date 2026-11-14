@@ -1,0 +1,16 @@
+/services/hospitality-retail /services/hospitality-interiors/ 301
+/services/hospitality-retail/ /services/hospitality-interiors/ 301
+/journal /blog/ 301
+/journal/ /blog/ 301
+/journal/* /blog/:splat 301
+/spaces /gallery/ 301
+/spaces/ /gallery/ 301
+/spaces/* /gallery/:splat 301
+
+# Project detail and community URL migration
+/projects/locations/:area/ /:area/ 301
+/projects/locations/:area /:area/ 301
+/projects/references/:slug/ /project/:slug/ 301
+/projects/references/:slug /project/:slug/ 301
+/projects/:slug/ /project/:slug/ 301
+/projects/:slug /project/:slug/ 301
