@@ -1,11 +1,7 @@
 import { siteUrl } from "@/lib/seo";
 
-const gtmId = process.env.NEXT_PUBLIC_GTM_ID?.trim() ?? "";
+const gtmId = "GTM-WPLCRC36";
 const productionHost = new URL(siteUrl).hostname.replace(/^www\./, "");
-
-if (gtmId && !/^GTM-[A-Z0-9]+$/.test(gtmId)) {
-  throw new Error(`NEXT_PUBLIC_GTM_ID is not a GTM container ID: ${gtmId}`);
-}
 
 /**
  * The site is a static export, so the same files are served on the production
@@ -18,7 +14,7 @@ var host=location.hostname.replace(/^www\\./,'');
 if(host!==${JSON.stringify(productionHost)}){
 var m=document.createElement('meta');m.name='robots';m.content='noindex, nofollow';
 document.head.appendChild(m);return;}
-var id=${JSON.stringify(gtmId)};if(!id)return;
+var id=${JSON.stringify(gtmId)};
 window.dataLayer=window.dataLayer||[];
 window.dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
 var s=document.createElement('script');s.async=true;

@@ -109,7 +109,7 @@ clean:
 #
 # Never synced in either direction; each checkout owns its own copy:
 #
-#   .env            NEXT_PUBLIC_GTM_ID (and NEXT_PUBLIC_SITE_URL if overridden)
+#   .env            NEXT_PUBLIC_SITE_URL, if a checkout overrides it
 #   wrangler.*      Cloudflare config, if a checkout ever adds one
 #   .git            the two checkouts track different remotes
 #
@@ -117,11 +117,11 @@ clean:
 # node_modules, keywords_planner, outputs, docs/redesign, docs/audits/visual,
 # tsbuildinfo). The full list is EXCLUDES in scripts/sync-tree.sh.
 #
-# Prod needs no .env for indexing: src/lib/seo.ts falls back to
-# https://haloworks.ae when NEXT_PUBLIC_SITE_URL is unset. GTM only ships when
-# NEXT_PUBLIC_GTM_ID is set at build time, so give prod a .env with that ID, or
-# set it in the Cloudflare Pages build environment.
-# `make sync-prod-status` reports which.
+# Prod needs no .env: src/lib/seo.ts falls back to https://haloworks.ae when
+# NEXT_PUBLIC_SITE_URL is unset, and GTM is hard-coded in
+# src/components/production-gate.tsx, firing only on that host. Do not set
+# NEXT_PUBLIC_SITE_URL to anything else in prod, or GTM stops and pages go noindex.
+# `make sync-prod-status` reports prod's .env.
 #
 # The copy/prune split, and why this is not a plain `rsync -a --delete`, is
 # explained at the top of scripts/sync-tree.sh: macOS ships openrsync, which
@@ -175,15 +175,12 @@ sync-prod-status:
 	@if [ ! -d "$(PROD_DIR)" ]; then echo "  ❌ does not exist"; exit 1; fi
 	@if [ -f "$(PROD_DIR)/.env" ]; then \
 		site=$$(sed -n 's/^NEXT_PUBLIC_SITE_URL=//p' "$(PROD_DIR)/.env"); \
-		gtm=$$(sed -n 's/^NEXT_PUBLIC_GTM_ID=//p' "$(PROD_DIR)/.env"); \
-		echo "  ✅ .env present"; \
-		echo "     SITE_URL: $${site:-(unset, defaults to https://haloworks.ae)}"; \
-		if [ -n "$$gtm" ]; then echo "     GTM_ID:   $$gtm"; \
-		else echo "     GTM_ID:   ⚠️  unset, local builds in prod ship no GTM tag"; fi; \
+		echo "  ✅ .env present — SITE_URL: $${site:-(unset, defaults to https://haloworks.ae)}"; \
+		case "$$site" in ""|https://haloworks.ae|https://haloworks.ae/) ;; \
+		*) echo "     ⚠️  not haloworks.ae: GTM will not fire and pages will be noindex";; esac; \
 	else \
-		echo "  ·  .env absent: canonical on https://haloworks.ae and indexable,"; \
-		echo "     but NO GTM tag unless NEXT_PUBLIC_GTM_ID is set in the"; \
-		echo "     Cloudflare Pages build environment."; \
+		echo "  ·  .env absent (fine): canonical on https://haloworks.ae, indexable,"; \
+		echo "     and GTM fires there."; \
 	fi
 	@if git -C "$(PROD_DIR)" rev-parse --verify HEAD >/dev/null 2>&1; then \
 		echo "  git: $$(git -C "$(PROD_DIR)" rev-parse --abbrev-ref HEAD), $$(git -C "$(PROD_DIR)" rev-list --count HEAD) commit(s)"; \
