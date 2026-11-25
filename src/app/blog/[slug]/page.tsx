@@ -41,6 +41,7 @@ export default async function Article({
           "@type": "Article",
           headline: a.title,
           description: a.excerpt,
+          ...(a.publishedAt ? { datePublished: a.publishedAt } : {}),
           image: absoluteUrl(`/images/${a.image}.webp`),
           mainEntityOfPage: absoluteUrl(`/blog/${slug}/`),
           author: {
@@ -76,6 +77,9 @@ export default async function Article({
           </nav>
         </aside>
         <article className="article-body">
+          {a.publishedAt && (
+            <p><time dateTime={a.publishedAt}>{new Intl.DateTimeFormat("en-GB", { dateStyle: "long", timeZone: "UTC" }).format(new Date(a.publishedAt))}</time></p>
+          )}
           {a.sections.map(([h, p], i) => (
             <section key={h} id={`note-${i + 1}`} data-reveal>
               <Label>0{i + 1}</Label>

@@ -6,6 +6,7 @@ export type Article = {
   category: string;
   image: string;
   imageAlt?: string;
+  publishedAt?: string;
   excerpt: string;
   sections: readonly (readonly [heading: string, body: string])[];
   serviceSlugs: readonly [primary: string, ...related: string[]];
@@ -26,6 +27,41 @@ const maintenanceGuide = {
 };
 
 export const serviceArticles: Article[] = [
+  {
+    slug: "move-in-refresh-service-lift-bookings-dubai",
+    publishedAt: "2026-11-25",
+    title: "How to plan a move-in refresh with two service lift bookings",
+    category: "Renovation",
+    image: "scope-protection-natural",
+    imageAlt: "Worker protecting timber flooring before a home refresh",
+    excerpt: "Use two service lift bookings to plan a Dubai apartment refresh, from the contractor’s first load to moving in after the work is ready.",
+    serviceSlugs: ["quick-transformations","apartment-renovation","painting"],
+    sources: [
+      {"label":"Emaar South move-in permit guidance","href":"https://www.ecm.ae/en/communities/emaar-south/lifestyle/faqs/moving-in-emaar-south/"},
+    ],
+    sections: [
+      [
+        "Confirm what each booking allows",
+        "Ask building management whether building access, a move-in permit and a service lift reservation are separate for your apartment. Emaar South, for example, has its own move-in permit process. Confirm which slot can be used by contractors, how they can remove waste and whether the move-in slot can be shared by more than one company. Ask for the permitted loading route, time window, lift size and protection requirements in writing.",
+      ],
+      [
+        "Use the first slot to get the work started",
+        "List what needs the lift and give the contractor the packed sizes and quantities before the booking. A small wall refresh might only need protection, paint and tools. Changes that need bulky flooring, joinery or large waste loads may need another access plan. For each load, give the supplier a person to call from the loading bay and enough time to move through security. Agree where materials can go without blocking access or covering surfaces the contractor needs to inspect.",
+      ],
+      [
+        "Give the flat a handover of its own",
+        "Between bookings, schedule a walkthrough and a clean before the movers arrive. Ask the contractor when the specified finishes are ready for normal use and when furniture can go against new paint or onto renewed flooring. Check the areas the sofa, bed or wardrobe will cover while they are still visible. If something is unfinished, identify one safe drop zone for boxes and make sure the delivery crew knows how to reach it.",
+      ],
+      [
+        "Use the second slot for the move",
+        "Send the mover a short unload order. Bring in the large items that need the clear route first, then bring boxes that can go straight into their rooms. Keep traffic away from any work that is still drying. If a replacement door frame or built-in unit needs its own crew, agree a different delivery plan before counting it in the same window. Give the people at the loading bay and inside the flat the same list.",
+      ],
+      [
+        "Decide in advance what can wait",
+        "A late material or shorter slot should trigger a decision. List the work that must be ready before sleeping in the apartment and the items you can finish after moving. That could mean completing the bedroom walls and leaving a replacement cabinet front until its hardware arrives. If you are briefing Halo Works, send the building’s written rules, both booking windows and the rooms that need to be usable on move-in day.",
+      ],
+    ],
+  },
   {
     slug: "where-to-start-home-renovation",
     title: "Renovating more than one room? Start here",
