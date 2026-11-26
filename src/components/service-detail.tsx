@@ -260,6 +260,11 @@ export default function ServiceDetail({
             <p className="eyebrow">What a clear brief makes possible</p>
             <h2 id="service-brief-title">{outcomeTitle}</h2>
             <p>{outcomeCopy}</p>
+            {slug === "painting" && (
+              <a href="https://decopaint.ae/free-samples" className="text-link">
+                Book a decorative finish sample review with DecoPaint <Icon name="diagonal" size={16} />
+              </a>
+            )}
           </div>
           <div className="service-brief-next" data-reveal data-reveal-order={1}>
             <h3>What to send us</h3>
