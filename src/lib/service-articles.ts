@@ -28,9 +28,44 @@ const maintenanceGuide = {
 
 export const serviceArticles: Article[] = [
   {
+    slug: "occupied-commercial-fit-out-tenant-access-dubai",
+    publishedAt: "2026-11-26",
+    title: "Planning fit-out work around a tenant who needs to stay operational",
+    category: "Commercial fit-out",
+    image: "workplace",
+    excerpt: "Plan an occupied commercial fit-out in Dubai with agreed tenant access, shutdown windows and a clear process for reopening each area.",
+    serviceSlugs: ["interior-fit-out", "office-fit-out", "project-delivery"],
+    sources: [{
+      label: "Dubai Development Authority fit-out permit",
+      href: "https://dda.gov.ae/en/planning-development/construction/permits-nocs/fit-out-permit",
+    }],
+    sections: [
+      [
+        "Walk the site with the tenant before you set the dates",
+        "Say you need to refurbish the reception and corridor while the tenant still opens at nine. Walk the route with the tenant and the building manager. Follow a visitor from the entrance to the reception desk, then follow a delivery to the service lift. Mark the places where staff, customers and the building team will still need to pass. Ask whom to call on the day if the usual route changes.",
+      ],
+      [
+        "Agree which interruptions the tenant can absorb",
+        "Ask the tenant to name the parts of its working week that cannot move. A clinic and a showroom may use the same loading bay at very different times. Put agreed noisy work, deliveries and any proposed interruptions to building services on a single schedule. Give each interruption a start, an agreed return time and someone who confirms that the service is back.",
+      ],
+      [
+        "Get permissions and a workable access plan together",
+        "Have the appointed team check the building’s work rules, permit route and access requirements before the first phase is booked. Where DDA is the relevant authority, it has a fit-out permit service for applicable commercial spaces. Ask building management how it will review site separation and circulation during each phase. If the team cannot maintain the agreed routes, revisit the sequence or arrange a temporary closure for that part of the work.",
+      ],
+      [
+        "Give each party a reason to pause the work",
+        "Agree one point of contact each for the tenant, building management and contractor. Decide who can call a pause if a delivery blocks the agreed route, an outage runs over or the work area affects customers. Record who has to agree to the revised plan, then tell the people due on site before they set off.",
+      ],
+      [
+        "Agree who releases a space back to the tenant",
+        "Put time in the programme for a joint walk-through ahead of reopening. Ask the responsible trades and facilities team to confirm the agreed checks for services, access and cleaning, and record any outstanding items. Bring the tenancy layout, operating hours and likely interruption windows to the fit-out briefing so they can be planned into the quote.",
+      ],
+    ],
+  },
+  {
     slug: "move-in-refresh-service-lift-bookings-dubai",
     publishedAt: "2026-11-25",
-    title: "How to plan a move-in refresh with two service lift bookings",
+    title: "Planning a 2027 move-in refresh with only two lift bookings",
     category: "Renovation",
     image: "scope-protection-natural",
     imageAlt: "Worker protecting timber flooring before a home refresh",
