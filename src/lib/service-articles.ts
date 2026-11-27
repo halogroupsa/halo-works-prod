@@ -28,6 +28,35 @@ const maintenanceGuide = {
 
 export const serviceArticles: Article[] = [
   {
+    slug: "office-meeting-pod-checklist-dubai",
+    publishedAt: "2026-11-27",
+    title: "What to check before adding a meeting pod to a Dubai office",
+    category: "Commercial fit-out",
+    image: "project-references/office-glazed-meeting-booth",
+    imageAlt: "Glazed office meeting booth with upholstered chairs",
+    excerpt: "Check placement, delivery access, ventilation, power and acoustic expectations before ordering an office meeting pod in Dubai.",
+    serviceSlugs: ["office-fit-out", "interior-fit-out"],
+    sources: [{ label: "Dubai Development Authority fit-out permit guidance", href: "https://dda.gov.ae/en/planning-development/construction/permits-nocs/fit-out-permit" }],
+    sections: [
+      [
+        "Start with the conversation the pod will host",
+        "Before buying a meeting pod, agree who will use it, how many people need to fit and how private the conversation should be. A place for short video calls has different needs from a room for two people reviewing a confidential contract. Ask the supplier what its acoustic test measured and how the installed pod will ventilate.",
+      ],
+      [
+        "Mark the occupied footprint on the office plan",
+        "Show the door swing, the access needed for assembly and the space needed for servicing. Walk the nearby route when the pod door is open. Give facilities the pod dimensions and proposed position so it can review circulation and any effects on building services, including the existing fire and life safety layout.",
+      ],
+      [
+        "Check what the proposal needs from the building",
+        "Ask what power and data connections the model requires and how the components will reach the office. Have the landlord or building manager and appointed fit-out team confirm the review or approval route before ordering. Record which changes the fit-out team will price and which tasks the supplier covers.",
+      ],
+      [
+        "Agree on a handover check",
+        "At the briefing, send the pod specification, the proposed location and photos of the approach to the room. Ask the team to include assembly access, commissioning and the person responsible for confirming the pod is ready to use. Sit inside during the handover and try a call with the door closed and the ventilation running.",
+      ],
+    ],
+  },
+  {
     slug: "occupied-commercial-fit-out-tenant-access-dubai",
     publishedAt: "2026-11-26",
     title: "Planning fit-out work around a tenant who needs to stay operational",
@@ -42,11 +71,11 @@ export const serviceArticles: Article[] = [
     sections: [
       [
         "Walk the site with the tenant before you set the dates",
-        "Say you need to refurbish the reception and corridor while the tenant still opens at nine. Walk the route with the tenant and the building manager. Follow a visitor from the entrance to the reception desk, then follow a delivery to the service lift. Mark the places where staff, customers and the building team will still need to pass. Ask whom to call on the day if the usual route changes.",
+        "Plan an occupied fit-out by dividing the work into areas the tenant can give up in turn. Agree which access routes must stay open, when noisy work or service interruptions can happen, and who signs off each area before reopening. In a showroom that opens at nine, walk the customer route and the delivery route to the service lift with the tenant and building manager. Where they cross, agree a delivery window and name the person who will meet the crew.",
       ],
       [
         "Agree which interruptions the tenant can absorb",
-        "Ask the tenant to name the parts of its working week that cannot move. A clinic and a showroom may use the same loading bay at very different times. Put agreed noisy work, deliveries and any proposed interruptions to building services on a single schedule. Give each interruption a start, an agreed return time and someone who confirms that the service is back.",
+        "For the showroom, the first phase could keep the desk in use while materials come in through a booked service lift slot. Plan the reception work for an agreed closing window only after the building manager signs off the access plan. Release the reception back to the tenant before moving to the corridor. Put deliveries, noisy work and any service interruption on the same schedule, with a start time, an expected return time and the person who confirms that the service is back.",
       ],
       [
         "Get permissions and a workable access plan together",
