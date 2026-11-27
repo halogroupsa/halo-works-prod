@@ -11,6 +11,7 @@ export type Article = {
   sections: readonly (readonly [heading: string, body: string])[];
   serviceSlugs: readonly [primary: string, ...related: string[]];
   sources?: readonly { label: string; href: string }[];
+  relatedLink?: { intro: string; href: string; label: string };
 };
 
 const communityRules = {
@@ -27,6 +28,40 @@ const maintenanceGuide = {
 };
 
 export const serviceArticles: Article[] = [
+  {
+    slug: "villa-handover-maintenance-asset-register-dubai",
+    publishedAt: "2026-11-28",
+    title: "How to turn a villa handover pack into a maintenance asset register",
+    category: "Home maintenance",
+    image: "article-materials",
+    imageAlt: "Timber, stone and fabric samples arranged on a table",
+    excerpt: "Turn a Dubai villa handover pack into a room-by-room list of equipment, service dates, warranties and contacts that you can use when something needs attention.",
+    serviceSlugs: ["annual-maintenance", "project-delivery"],
+    sources: [{ label: "Emaar Community Management’s example of handover pack contents", href: "https://www.ecm.ae/wp-content/uploads/2024/11/Property-Maintenance.pdf" }],
+    relatedLink: {
+      intro: "If you want a record of defects and outstanding checks before accepting the keys, read",
+      href: "https://haloinspection.ae/blog/property-snagging-before-handover-dubai",
+      label: "Halo Inspection’s handover inspection guide",
+    },
+    sections: [
+      [
+        "Start with the equipment you are likely to call someone about",
+        "Open your villa handover pack and look for commissioning sheets, equipment manuals, warranties and installer contacts. Give each maintainable item a row with a location and enough detail to identify it. Start with equipment such as AC units, water heaters and pumps. A short list you can use on a call is more helpful than a folder you never open.",
+      ],
+      [
+        "Build the first row from the commissioning record",
+        "Here is an illustrative entry. Asset AC-01, upstairs landing, indoor AC unit. Serial number EX-AC-001, copied from the label. Commissioned 10 November 2026. Last service not yet recorded. Next service date to confirm against the manual. Warranty expires 10 November 2027, as stated on the example certificate. Add the installer’s phone number and a link to the commissioning sheet. Use your own records to confirm dates and terms.",
+      ],
+      [
+        "Match the paperwork to the villa",
+        "Two units can share a model number and have different service histories. Ask the handover team to identify which is which, where it can be accessed and who supplied it. Mark any missing serial number, manual or warranty in the register. Give someone a date to follow up.",
+      ],
+      [
+        "Keep the register useful after the first visit",
+        "After a service, add the visit date, the contractor and its report reference. Update the next service date where the provider or equipment guidance calls for it. Keep the defect list alongside the register so items that need a developer or contractor response stay visible. Share the current list when requesting a villa maintenance proposal.",
+      ],
+    ],
+  },
   {
     slug: "office-meeting-pod-checklist-dubai",
     publishedAt: "2026-11-27",

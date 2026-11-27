@@ -91,6 +91,9 @@ export default async function Article({
             <Link prefetch={false} href={`/services/${serviceSlug}/`} className="text-link">
               {serviceName ?? "Explore the related service"} <Icon name="diagonal" size={16} />
             </Link>
+            {a.relatedLink && (
+              <p>{a.relatedLink.intro} <a href={a.relatedLink.href} className="text-link">{a.relatedLink.label}</a>.</p>
+            )}
             {a.sources && (
               <aside className="prose" aria-label="Official references">
                 <strong>Official references</strong>
